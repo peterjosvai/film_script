@@ -43,3 +43,13 @@ h2 ->  ##
 h3 - h6 -> ###...
 body text -> nothing (1 indent can be added at conversion)
 ```
+________
+
+### document layout / "formatting" in a screenplay 
+_(the illustration below uses metric units, values are approximate, **only for illustration purposes** :) )_
+
+_It also illustrtrates the difference between a European A4 and the US Letter formats._
+
+> The screenplay used in this illustration, as you may have noticed, is _Twin Peaks – Fire Walk With Me_ by (the ingenious) David Lynch.
+
+![image](../screeplay_formatting_illustration.jpg)
