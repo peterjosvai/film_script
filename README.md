@@ -1,5 +1,5 @@
 
-# film_script
+# film_script converter
 Command line converter, in Python3, converting film_script markdown to Fountain format, and more.
 
 ![typwriter](images/typewriter-250.png) 
