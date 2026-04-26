@@ -52,4 +52,4 @@ _It also illustrtrates the difference between a European A4 and the US Letter fo
 
 > The screenplay used in this illustration, as you may have noticed, is _Twin Peaks_ (episode 3).
 
-![image](../screeplay_formatting_illustration.jpg)
+![image](../screeplay_layout_illustration.jpg)
