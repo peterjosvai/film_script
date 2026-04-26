@@ -50,6 +50,6 @@ _(the illustration below uses metric units, values are approximate, **only for i
 
 _It also illustrtrates the difference between a European A4 and the US Letter formats._
 
-> The screenplay used in this illustration, as you may have noticed, is _Twin Peaks – Fire Walk With Me_ by (the ingenious) David Lynch.
+> The screenplay used in this illustration, as you may have noticed, is _Twin Peaks_ (episode 3).
 
 ![image](../screeplay_formatting_illustration.jpg)
