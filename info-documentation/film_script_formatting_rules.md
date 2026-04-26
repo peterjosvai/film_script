@@ -4,11 +4,23 @@
 
 There are two variants of the film_script formatting rules, **film_script_i** and **film_script_h**.
 
+### • film_script_i 
+_(indentation-based; to be used a simple text editor)_
 
-### film_script_h 
-_(to be used in Writer)_
+```
+|- - - - - 5 tabs << character name (dialogue)
+|- - - - 4 tabs << parenthetical
+|- - - 3 tabs << dialogue
+|- -  2 tabs << no meaning :) could be used later
+|- 1 tab << action description
+|0 tab << scene heading
 
-The formatting rules based on **heading level** in Libreoffice Writer:
+“>” -> cut / dissolve / more, etc
+```
+
+
+### • film_script_h 
+_(heading-level based; to be used in Libreoffice Writer)_
 
 ```
 Heading 1 -> (reserved for chapter / section titles)
@@ -30,20 +42,4 @@ h1 -> #
 h2 ->  ##
 h3 - h6 -> ###...
 body text -> nothing (1 indent can be added at conversion)
-```
-
-### film_script_i 
-_(to be used a simple text editor)_
-
-The formatting rules based on **indentation** in a simple text editor:
-
-```
-|- - - - - 5 tabs << character name (dialogue)
-|- - - - 4 tabs << parenthetical
-|- - - 3 tabs << dialogue
-|- -  2 tabs << no meaning :) could be used later
-|- 1 tab << action description
-|0 tab << scene heading
-
-“>” -> cut / dissolve / more, etc
 ```
