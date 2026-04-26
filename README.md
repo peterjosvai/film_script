@@ -1,7 +1,13 @@
 
 # film_script
 Command line converter, in Python3, converting film_script markdown to Fountain format, and more.
-![typwriter](images/typewriter-250.png)
+
+![typwriter](images/typewriter-250.png) 
+
+more info (here): [about film_script_format](info-documentation/about_the_film_script_format.md)
+| [the_film_script_formatting_rules](info-documentation/film_script_formatting_rules.md)
+
+plus: [https://artreboot.eu/film_script](https://artreboot.eu/film_script)
 ___________
 There is a working version, in a day or two I'm ging to upload it.
 
