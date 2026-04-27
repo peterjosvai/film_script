@@ -14,5 +14,6 @@ more info (here): [about film_script_format](info-documentation/about_the_film_s
 
 plus: [https://artreboot.eu/film_script](https://artreboot.eu/film_script)
 ___________
-There is a working version, in a day or two I'm ging to upload it.
+There is a working version, in a day or two I'm going to upload it. `as of 27/Apr/2026/09:23`
+
 
