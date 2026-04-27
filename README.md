@@ -1,6 +1,7 @@
 
 # film_script (format) converter
-★ fsc-convert.py 
+![fsc-convert](images/fsc-convert.svg)
+
 
 **fsc-convert**.py is a command line converter, written in Python3. 
 
