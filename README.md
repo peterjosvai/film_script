@@ -5,7 +5,12 @@
 
 **fsc-convert**.py is a command line converter, written in Python3. 
 
-It converts **film_script markdown** to **Fountain markdown format**, and more.
+It converts **film_script markdown** to **Fountain markdown format**, and more.  
+> update: 30/Jun/2026/11:11  
+
+>It will be shortly published. In July... promise ## :)   
+together with the UI version (using PyQt)  
+(and the next version of the UI will be GTK4)
 
 ![typwriter](images/typewriter-250.png)
 
