@@ -3,7 +3,10 @@
 (the list of relevant news)
 
 
-## [news_2026_09_29.md](news/news_2026_09_29.md)    <!-- I use this format cause I'd like the files to be in order over months and even years --> 
+## [news_2026_10_02.md](news/news_2026_10_02.md)    <!-- I use this format cause I'd like the files to be in order over months and even years --> 
+  The last little problem (generating a PDF file) before publishing the first package...
+
+## [news_2026_09_29.md](news/news_2026_09_29.md)
   Just a quick promise: I'll upload v1.0 shortly.
 
 ## [news_2026_06_28.md](news/news_2026_06_28.md)
